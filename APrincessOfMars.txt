@@ -1,4 +1,4 @@
-    #pg-header div, #pg-footer div {  all: initial;  display: block;  margin-top: 1em;  margin-bottom: 1em;  margin-left: 2em; } #pg-footer div.agate {  font-size: 90%;  margin-top: 0;  margin-bottom: 0;  text-align: center; } #pg-footer li {  all: initial;  display: block;  margin-top: 1em;  margin-bottom: 1em;  text-indent: -0.6em; } #pg-footer div.secthead {  font-size: 110%;  font-weight: bold; } #pg-footer #project-gutenberg-license {  font-size: 110%;  margin-top: 0;  margin-bottom: 0;  text-align: center; } #pg-header-heading {  all: inherit;  text-align: center;  font-size: 120%;  font-weight:bold; } #pg-footer-heading {  all: inherit;  text-align: center;  font-size: 120%;  font-weight: normal;  margin-top: 0;  margin-bottom: 0; } #pg-header #pg-machine-header p {  text-indent: -4em;  margin-left: 4em;  margin-top: 1em;  margin-bottom: 0;  font-size: medium } #pg-header #pg-header-authlist {  all: initial;  margin-top: 0;  margin-bottom: 0; } #pg-header #pg-machine-header strong {  font-weight: normal; } #pg-header #pg-start-separator, #pg-footer #pg-end-separator {  margin-bottom: 3em;  margin-left: 0;  margin-right: auto;  margin-top: 2em;  text-align: center }   .xhtml_center {text-align: center; display: block;}  .xhtml_center table {  display: table;  text-align: left;  margin-left: auto;  margin-right: auto;  }A Princess of Mars | Project Gutenberg  body {  text-align: justify  } @media screen {  body {  margin-left: 10%;  margin-right: 10%  }  } .pagedjs_page_content div {  margin-left: 10%;  margin-right: 10%  } h1, h2, h3, h4, h5 {  text-align: center;  font-style: normal;  font-weight: normal;  line-height: 1.5;  margin-top: 0.5em;  margin-bottom: 0.5em  } h1 {  font-size: 300%;  margin-top: 0.6em;  margin-bottom: 0.6em;  letter-spacing: 0.12em;  word-spacing: 0.2em;  text-indent: 0  } h2 {  font-size: 150%;  margin-top: 2em;  margin-bottom: 1em  } h3 {  font-size: 130%;  margin-top: 1em  } h4 {  font-size: 120%  } h5 {  font-size: 110%  } .no-break {  page-break-before: avoid  } div.chapter {  page-break-before: always;  margin-top: 4em  } hr {  width: 80%;  margin-top: 2em;  margin-bottom: 2em  } p {  text-indent: 1em;  margin-top: 0.25em;  margin-bottom: 0.25em  } p.center {  text-align: center;  text-indent: 0;  margin-top: 1em;  margin-bottom: 1em  } p.right {  text-align: right;  margin-right: 10%;  margin-top: 1em;  margin-bottom: 1em  } p.footnote {  font-size: 90%;  text-indent: 0%;  margin-left: 10%;  margin-right: 10%;  margin-top: 1em;  margin-bottom: 1em  } sup {  vertical-align: top;  font-size: 0.6em  } div.fig {  display: block;  margin: 0 auto;  text-align: center;  margin-top: 1em;  margin-bottom: 1em  } p.caption {  font-weight: bold;  text-align: center  } a:link {  color: blue;  text-decoration: none  } a:visited {  color: blue;  text-decoration: none  } a:hover {  color: red  }                      
+                  
 The Project Gutenberg eBook of A Princess of Mars  This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.  
 
 Title: A Princess of Mars  
@@ -8,15 +8,18 @@ Author: Edgar Rice Burroughs
 Release date: April 1, 1993 [eBook #62]
   Most recently updated: January 12, 2025  
 
-Language: English    *** START OF THE PROJECT GUTENBERG EBOOK A PRINCESS OF MARS ***     
-A Princess of Mars 
+Language: English   
+   
+A Princess of Mars
+ 
 by Edgar Rice Burroughs 
+
 ----------------
-  
 
  To My Son Jack    
-CONTENTS    FOREWORD    CHAPTER I On the Arizona Hills    CHAPTER II The Escape of the Dead    CHAPTER III My Advent on Mars    CHAPTER IV A Prisoner    CHAPTER V I Elude My Watch Dog    CHAPTER VI A Fight That Won Friends    CHAPTER VII Child-Raising on Mars    CHAPTER VIII A Fair Captive from the Sky    CHAPTER IX I Learn the Language    CHAPTER X Champion and Chief    CHAPTER XI With Dejah Thoris    CHAPTER XII A Prisoner with Power    CHAPTER XIII Love-Making on Mars    CHAPTER XIV A Duel to the Death    CHAPTER XV Sola Tells Me Her Story    CHAPTER XVI We Plan Escape    CHAPTER XVII A Costly Recapture    CHAPTER XVIII Chained in Warhoon    CHAPTER XIX Battling in the Arena    CHAPTER XX In the Atmosphere Factory    CHAPTER XXI An Air Scout for Zodanga    CHAPTER XXII I Find Dejah    CHAPTER XXIII Lost in the Sky    CHAPTER XXIV Tars Tarkas Finds a Friend    CHAPTER XXV The Looting of Zodanga    CHAPTER XXVI Through Carnage to Joy    CHAPTER XXVII From Joy to Death    CHAPTER XXVIII At the Arizona Cave     
-ILLUSTRATIONS    I sought out Dejah Thoris in the throng of departing chariots.    She drew upon the marble floor the first map of the Barsoomian territory I had ever seen.    The old man sat and talked with me for hours.    With my back against a golden throne, I fought once again for Dejah Thoris.     
+
+ I sought out Dejah Thoris in the throng of departing chariots.    She drew upon the marble floor the first map of the Barsoomian territory I had ever seen.    The old man sat and talked with me for hours.    With my back against a golden throne, I fought once again for Dejah Thoris.     
+
 FOREWORD 
 
  To the Reader of this Work:  
@@ -258,9 +261,13 @@ FOREWORD
 
  He exchanged a few words with his men, motioned to me that I would ride behind one of them, and then mounted his own animal. The fellow designated reached down two or three hands and lifted me up behind him on the glossy back of his mount, where I hung on as best I could by the belts and straps which held the Martian’s weapons and ornaments.  
 
- The entire cavalcade then turned and galloped away toward the range of hills in the distance.    
-CHAPTER IV
+ The entire cavalcade then turned and galloped away toward the range of hills in the distance.   
+ 
+
+~cCHAPTER IV
+
  A PRISONER 
+
 
  We had gone perhaps ten miles when the ground began to rise very rapidly. We were, as I was later to learn, nearing the edge of one of Mars’ long-dead seas, in the bottom of which my encounter with the Martians had taken place.  
 
@@ -316,9 +323,13 @@ CHAPTER IV
 
  The room was well lighted by a number of large windows and was beautifully decorated with mural paintings and mosaics, but upon all there seemed to rest that indefinable touch of the finger of antiquity which convinced me that the architects and builders of these wondrous creations had nothing in common with the crude half-brutes which now occupied them.  
 
- Sola motioned me to be seated upon a pile of silks near the center of the room, and, turning, made a peculiar hissing sound, as though signaling to someone in an adjoining room. In response to her call I obtained my first sight of a new Martian wonder. It waddled in on its ten short legs, and squatted down before the girl like an obedient puppy. The thing was about the size of a Shetland pony, but its head bore a slight resemblance to that of a frog, except that the jaws were equipped with three rows of long, sharp tusks.    
-CHAPTER V
+ Sola motioned me to be seated upon a pile of silks near the center of the room, and, turning, made a peculiar hissing sound, as though signaling to someone in an adjoining room. In response to her call I obtained my first sight of a new Martian wonder. It waddled in on its ten short legs, and squatted down before the girl like an obedient puppy. The thing was about the size of a Shetland pony, but its head bore a slight resemblance to that of a frog, except that the jaws were equipped with three rows of long, sharp tusks.
+
+    
+~cCHAPTER V
+
  I ELUDE MY WATCH DOG 
+
 
  Sola stared into the brute’s wicked-looking eyes, muttered a word or two of command, pointed to me, and left the chamber. I could not but wonder what this ferocious-looking monstrosity might do when left alone in such close proximity to such a relatively tender morsel of meat; but my fears were groundless, as the beast, after surveying me intently for a moment, crossed the room to the only exit which led to the street, and lay down full length across the threshold.  
 
