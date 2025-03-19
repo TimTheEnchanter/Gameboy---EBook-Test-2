@@ -1112,8 +1112,12 @@ I sought out Dejah Thoris in the throng of departing chariots.
  We sat silent for a few moments, she wrapped in the gloomy thoughts of her terrible past, and I in pity for the poor creatures whom the heartless, senseless customs of their race had doomed to loveless lives of cruelty and of hate. Presently she spoke.  
 
  “John Carter, if ever a real man walked the cold, dead bosom of Barsoom you are one. I know that I can trust you, and because the knowledge may someday help you or him or Dejah Thoris or myself, I am going to tell you the name of my father, nor place any restrictions or conditions upon your tongue. When the time comes, speak the truth if it seems best to you. I trust you because I know that you are not cursed with the terrible trait of absolute and unswerving truthfulness, that you could lie like one of your own Virginia gentlemen if a lie would save others from sorrow or suffering. My father’s name is Tars Tarkas.”    
-CHAPTER XVI
+
+
+~cCHAPTER XVI
+
  WE PLAN ESCAPE 
+
 
  The remainder of our journey to Thark was uneventful. We were twenty days upon the road, crossing two sea bottoms and passing through or around a number of ruined cities, mostly smaller than Korad. Twice we crossed the famous Martian waterways, or canals, so-called by our earthly astronomers. When we approached these points a warrior would be sent far ahead with a powerful field glass, and if no great body of red Martian troops was in sight we would advance as close as possible without chance of being seen and then camp until dark, when we would slowly approach the cultivated tract, and, locating one of the numerous, broad highways which cross these areas at regular intervals, creep silently and stealthily across to the arid lands upon the other side. It required five hours to make one of these crossings without a single halt, and the other consumed the entire night, so that we were just leaving the confines of the high-walled fields when the sun broke out upon us.  
 
@@ -1205,9 +1209,13 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  I did not rush headlong in, but listened without to assure myself that it was Dejah Thoris and that it was safe to venture within. It was well indeed that I took this precaution, for the conversation I heard was in the low gutturals of men, and the words which finally came to me proved a most timely warning. The speaker was a chieftain and he was giving orders to four of his warriors.  
 
- “And when he returns to this chamber,” he was saying, “as he surely will when he finds she does not meet him at the city’s edge, you four are to spring upon him and disarm him. It will require the combined strength of all of you to do it if the reports they bring back from Korad are correct. When you have him fast bound bear him to the vaults beneath the jeddak’s quarters and chain him securely where he may be found when Tal Hajus wishes him. Allow him to speak with none, nor permit any other to enter this apartment before he comes. There will be no danger of the girl returning, for by this time she is safe in the arms of Tal Hajus, and may all her ancestors have pity upon her, for Tal Hajus will have none; the great Sarkoja has done a noble night’s work. I go, and if you fail to capture him when he comes, I commend your carcasses to the cold bosom of Iss.”    
-CHAPTER XVII
+ “And when he returns to this chamber,” he was saying, “as he surely will when he finds she does not meet him at the city’s edge, you four are to spring upon him and disarm him. It will require the combined strength of all of you to do it if the reports they bring back from Korad are correct. When you have him fast bound bear him to the vaults beneath the jeddak’s quarters and chain him securely where he may be found when Tal Hajus wishes him. Allow him to speak with none, nor permit any other to enter this apartment before he comes. There will be no danger of the girl returning, for by this time she is safe in the arms of Tal Hajus, and may all her ancestors have pity upon her, for Tal Hajus will have none; the great Sarkoja has done a noble night’s work. I go, and if you fail to capture him when he comes, I commend your carcasses to the cold bosom of Iss.”  
+
+  
+~cCHAPTER XVII
+
  A COSTLY RECAPTURE 
+
 
  As the speaker ceased he turned to leave the apartment by the door where I was standing, but I needed to wait no longer; I had heard enough to fill my soul with dread, and stealing quietly away I returned to the courtyard by the way I had come. My plan of action was formed upon the instant, and crossing the square and the bordering avenue upon the opposite side I soon stood within the courtyard of Tal Hajus.  
 
@@ -1276,8 +1284,12 @@ CHAPTER XVII
  If ever Martians had an exhibition of jumping, it was granted those astonished warriors on that day long years ago, but while it led them away from Dejah Thoris it did not distract their attention from endeavoring to capture me.  
 
  They raced wildly after me until, finally, my foot struck a projecting piece of quartz, and down I went sprawling upon the moss. As I looked up they were upon me, and although I drew my long-sword in an attempt to sell my life as dearly as possible, it was soon over. I reeled beneath their blows which fell upon me in perfect torrents; my head swam; all was black, and I went down beneath them to oblivion.    
-CHAPTER XVIII
+
+
+~cCHAPTER XVIII
+
  CHAINED IN WARHOON 
+
 
  It must have been several hours before I regained consciousness and I well remember the feeling of surprise which swept over me as I realized that I was not dead.  
 
@@ -1334,8 +1346,12 @@ CHAPTER XVIII
  Laughing and chattering like the idiot I was fast becoming I fell upon his prostrate form my fingers feeling for his dead throat. Presently they came in contact with a small chain at the end of which dangled a number of keys. The touch of my fingers on these keys brought back my reason with the suddenness of thought. No longer was I a jibbering idiot, but a sane, reasoning man with the means of escape within my very hands.  
 
  As I was groping to remove the chain from about my victim’s neck I glanced up into the darkness to see six pairs of gleaming eyes fixed, unwinking, upon me. Slowly they approached and slowly I shrank back from the awful horror of them. Back into my corner I crouched holding my hands palms out, before me, and stealthily on came the awful eyes until they reached the dead body at my feet. Then slowly they retreated but this time with a strange grating sound and finally they disappeared in some black and distant recess of my dungeon.    
-CHAPTER XIX
+
+
+~cCHAPTER XIX
+
  BATTLING IN THE ARENA 
+
 
  Slowly I regained my composure and finally essayed again to attempt to remove the keys from the dead body of my former jailer. But as I reached out into the darkness to locate it I found to my horror that it was gone. Then the truth flashed on me; the owners of those gleaming eyes had dragged my prize away from me to be devoured in their neighboring lair; as they had been waiting for days, for weeks, for months, through all this awful eternity of my imprisonment to drag my dead carcass to their feast.  
 
@@ -1390,8 +1406,12 @@ CHAPTER XIX
  Kantos Kan and I were now pitted against each other but as we approached to the encounter I whispered to him to prolong the battle until nearly dark in the hope that we might find some means of escape. The horde evidently guessed that we had no hearts to fight each other and so they howled in rage as neither of us placed a fatal thrust. Just as I saw the sudden coming of dark I whispered to Kantos Kan to thrust his sword between my left arm and my body. As he did so I staggered back clasping the sword tightly with my arm and thus fell to the ground with his weapon apparently protruding from my chest. Kantos Kan perceived my coup and stepping quickly to my side he placed his foot upon my neck and withdrawing his sword from my body gave me the final death blow through the neck which is supposed to sever the jugular vein, but in this instance the cold blade slipped harmlessly into the sand of the arena. In the darkness which had now fallen none could tell but that he had really finished me. I whispered to him to go and claim his freedom and then look for me in the hills east of the city, and so he left me.  
 
  When the amphitheater had cleared I crept stealthily to the top and as the great excavation lay far from the plaza and in an untenanted portion of the great dead city I had little trouble in reaching the hills beyond.    
-CHAPTER XX
+
+
+~cCHAPTER XX
+
  IN THE ATMOSPHERE FACTORY 
+
 
  For two days I waited there for Kantos Kan, but as he did not come I started off on foot in a northwesterly direction toward a point where he had told me lay the nearest waterway. My only food consisted of vegetable milk from the plants which gave so bounteously of this priceless fluid.  
 
@@ -1500,8 +1520,12 @@ The old man sat and talked with me for hours.
  They filled a little sack at my side with Zodangan money. The medium of exchange upon Mars is not dissimilar from our own except that the coins are oval. Paper money is issued by individuals as they require it and redeemed twice yearly. If a man issues more than he can redeem, the government pays his creditors in full and the debtor works out the amount upon the farms or in mines, which are all owned by the government. This suits everybody except the debtor as it has been a difficult thing to obtain sufficient voluntary labor to work the great isolated farm lands of Mars, stretching as they do like narrow ribbons from pole to pole, through wild stretches peopled by wild animals and wilder men.  
 
  When I mentioned my inability to repay them for their kindness to me they assured me that I would have ample opportunity if I lived long upon Barsoom, and bidding me farewell they watched me until I was out of sight upon the broad white turnpike.    
-CHAPTER XXI
+
+
+~cCHAPTER XXI
+
  AN AIR SCOUT FOR ZODANGA 
+
 
  As I proceeded on my journey toward Zodanga many strange and interesting sights arrested my attention, and at the several farm houses where I stopped I learned a number of new and instructive things concerning the methods and manners of Barsoom.  
 
