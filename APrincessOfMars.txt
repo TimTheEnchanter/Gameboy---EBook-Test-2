@@ -61,13 +61,13 @@ FOREWORD
 
  Several months after I had returned home from my last visit, the first of March, 1886, I think, I received a telegram from him asking me to come to him at once. I had always been his favorite among the younger generation of Carters and so I hastened to comply with his demand.  
 
- I arrived at the little station, about a mile from his grounds, on the morning of March 4, 1886, and when I asked the livery man to drive me out to Captain Carter’s he replied that if I was a friend of the Captain's he had some very bad news for me; the Captain had been found dead shortly after daylight that very morning by the watchman attached to an adjoining property.  
+ I arrived at the little station, about a mile from his grounds, on the morning of March 4, 1886, and when I asked the livery man to drive me out to Captain Carter's he replied that if I was a friend of the Captain's he had some very bad news for me; the Captain had been found dead shortly after daylight that very morning by the watchman attached to an adjoining property.  
 
  For some reason this news did not surprise me, but I hurried out to his place as quickly as possible, so that I could take charge of the body and of his affairs.  
 
  I found the watchman who had discovered him, together with the local police chief and several townspeople, assembled in his little study. The watchman related the few details connected with the finding of the body, which he said had been still warm when he came upon it. It lay, he said, stretched full length in the snow with the arms outstretched above the head toward the edge of the bluff, and when he showed me the spot it flashed upon me that it was the identical one where I had seen him on those other nights, with his arms raised in supplication to the skies.  
 
- There were no marks of violence on the body, and with the aid of a local physician the coroner’s jury quickly reached a decision of death from heart failure. Left alone in the study, I opened the safe and withdrew the contents of the drawer in which he had told me I would find my instructions. They were in part peculiar indeed, but I have followed them to each last detail as faithfully as I was able.  
+ There were no marks of violence on the body, and with the aid of a local physician the coroner's jury quickly reached a decision of death from heart failure. Left alone in the study, I opened the safe and withdrew the contents of the drawer in which he had told me I would find my instructions. They were in part peculiar indeed, but I have followed them to each last detail as faithfully as I was able.  
 
  He directed that I remove his body to Virginia without embalming, and that he be laid in an open coffin within a tomb which he previously had had constructed and which, as I later learned, was well ventilated. The instructions impressed upon me that I must personally see that this was carried out just as he directed, even in secrecy if necessary.  
 
@@ -1156,7 +1156,7 @@ I sought out Dejah Thoris in the throng of departing chariots.
 
  “What would Dotar Sojat, Thark, of Dejah Thoris his captive?”  
 
- “Dejah Thoris, I do not know how I have angered you. It was furtherest from my desire to hurt or offend you, whom I had hoped to protect and comfort. Have none of me if it is your will, but that you must aid me in effecting your escape, if such a thing be possible, is not my request, but my command. When you are safe once more at your father’s court you may do with me as you please, but from now on until that day I am your master, and you must obey and aid me.”  
+ “Dejah Thoris, I do not know how I have angered you. It was furtherest from my desire to hurt or offend you, whom I had hoped to protect and comfort. Have none of me if it is your will, but that you must aid me in effecting your escape, if such a thing be possible, is not my request, but my command. When you are safe once more at your father's court you may do with me as you please, but from now on until that day I am your master, and you must obey and aid me.”  
 
  She looked at me long and earnestly and I thought that she was softening toward me.  
 
@@ -1194,7 +1194,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  Finally, after studying the map carefully in the moonlight which now flooded the room, I pointed out a waterway far to the north of us which also seemed to lead to Helium.  
 
- “Does not this pierce your grandfather’s territory?” I asked.  
+ “Does not this pierce your grandfather's territory?” I asked.  
 
  “Yes,” she answered, “but it is two hundred miles north of us; it is one of the waterways we crossed on the trip to Thark.”  
 
@@ -1206,7 +1206,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  In the shadows of the buildings and out beneath the radiance of the Martian moons moved the great herd of thoats and zitidars, the latter grunting their low gutturals and the former occasionally emitting the sharp squeal which denotes the almost habitual state of rage in which these creatures passed their existence. They were quieter now, owing to the absence of man, but as they scented me they became more restless and their hideous noise increased. It was risky business, this entering a paddock of thoats alone and at night; first, because their increasing noisiness might warn the nearby warriors that something was amiss, and also because for the slightest cause, or for no cause at all some great bull thoat might take it upon himself to lead a charge upon me.  
 
- Having no desire to awaken their nasty tempers upon such a night as this, where so much depended upon secrecy and dispatch, I hugged the shadows of the buildings, ready at an instant’s warning to leap into the safety of a nearby door or window. Thus I moved silently to the great gates which opened upon the street at the back of the court, and as I neared the exit I called softly to my two animals. How I thanked the kind providence which had given me the foresight to win the love and confidence of these wild dumb brutes, for presently from the far side of the court I saw two huge bulks forcing their way toward me through the surging mountains of flesh.  
+ Having no desire to awaken their nasty tempers upon such a night as this, where so much depended upon secrecy and dispatch, I hugged the shadows of the buildings, ready at an instant's warning to leap into the safety of a nearby door or window. Thus I moved silently to the great gates which opened upon the street at the back of the court, and as I neared the exit I called softly to my two animals. How I thanked the kind providence which had given me the foresight to win the love and confidence of these wild dumb brutes, for presently from the far side of the court I saw two huge bulks forcing their way toward me through the surging mountains of flesh.  
 
  They came quite close to me, rubbing their muzzles against my body and nosing for the bits of food it was always my practice to reward them with. Opening the gates I ordered the two great beasts to pass out, and then slipping quietly after them I closed the portals behind me.  
 
@@ -1216,15 +1216,15 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  “He would likely have arranged to meet them just without the city, and so—” I heard no more, they had passed on; but it was enough. Our plan had been discovered, and the chances for escape from now on to the fearful end would be small indeed. My one hope now was to return undetected to the quarters of Dejah Thoris and learn what fate had overtaken her, but how to do it with these great monstrous thoats upon my hands, now that the city probably was aroused by the knowledge of my escape was a problem of no mean proportions.  
 
- Suddenly an idea occurred to me, and acting on my knowledge of the construction of the buildings of these ancient Martian cities with a hollow court within the center of each square, I groped my way blindly through the dark chambers, calling the great thoats after me. They had difficulty in negotiating some of the doorways, but as the buildings fronting the city’s principal exposures were all designed upon a magnificent scale, they were able to wriggle through without sticking fast; and thus we finally made the inner court where I found, as I had expected, the usual carpet of moss-like vegetation which would provide their food and drink until I could return them to their own enclosure. That they would be as quiet and contented here as elsewhere I was confident, nor was there but the remotest possibility that they would be discovered, as the green men had no great desire to enter these outlying buildings, which were frequented by the only thing, I believe, which caused them the sensation of fear—the great white apes of Barsoom.  
+ Suddenly an idea occurred to me, and acting on my knowledge of the construction of the buildings of these ancient Martian cities with a hollow court within the center of each square, I groped my way blindly through the dark chambers, calling the great thoats after me. They had difficulty in negotiating some of the doorways, but as the buildings fronting the city's principal exposures were all designed upon a magnificent scale, they were able to wriggle through without sticking fast; and thus we finally made the inner court where I found, as I had expected, the usual carpet of moss-like vegetation which would provide their food and drink until I could return them to their own enclosure. That they would be as quiet and contented here as elsewhere I was confident, nor was there but the remotest possibility that they would be discovered, as the green men had no great desire to enter these outlying buildings, which were frequented by the only thing, I believe, which caused them the sensation of fear—the great white apes of Barsoom.  
 
- Removing the saddle trappings, I hid them just within the rear doorway of the building through which we had entered the court, and, turning the beasts loose, quickly made my way across the court to the rear of the buildings upon the further side, and thence to the avenue beyond. Waiting in the doorway of the building until I was assured that no one was approaching, I hurried across to the opposite side and through the first doorway to the court beyond; thus, crossing through court after court with only the slight chance of detection which the necessary crossing of the avenues entailed, I made my way in safety to the courtyard in the rear of Dejah Thoris’ quarters.  
+ Removing the saddle trappings, I hid them just within the rear doorway of the building through which we had entered the court, and, turning the beasts loose, quickly made my way across the court to the rear of the buildings upon the further side, and thence to the avenue beyond. Waiting in the doorway of the building until I was assured that no one was approaching, I hurried across to the opposite side and through the first doorway to the court beyond; thus, crossing through court after court with only the slight chance of detection which the necessary crossing of the avenues entailed, I made my way in safety to the courtyard in the rear of Dejah Thoris' quarters.  
 
  Here, of course, I found the beasts of the warriors who quartered in the adjacent buildings, and the warriors themselves I might expect to meet within if I entered; but, fortunately for me, I had another and safer method of reaching the upper story where Dejah Thoris should be found, and, after first determining as nearly as possible which of the buildings she occupied, for I had never observed them before from the court side, I took advantage of my relatively great strength and agility and sprang upward until I grasped the sill of a second-story window which I thought to be in the rear of her apartment. Drawing myself inside the room I moved stealthily toward the front of the building, and not until I had quite reached the doorway of her room was I made aware by voices that it was occupied.  
 
  I did not rush headlong in, but listened without to assure myself that it was Dejah Thoris and that it was safe to venture within. It was well indeed that I took this precaution, for the conversation I heard was in the low gutturals of men, and the words which finally came to me proved a most timely warning. The speaker was a chieftain and he was giving orders to four of his warriors.  
 
- “And when he returns to this chamber,” he was saying, “as he surely will when he finds she does not meet him at the city’s edge, you four are to spring upon him and disarm him. It will require the combined strength of all of you to do it if the reports they bring back from Korad are correct. When you have him fast bound bear him to the vaults beneath the jeddak’s quarters and chain him securely where he may be found when Tal Hajus wishes him. Allow him to speak with none, nor permit any other to enter this apartment before he comes. There will be no danger of the girl returning, for by this time she is safe in the arms of Tal Hajus, and may all her ancestors have pity upon her, for Tal Hajus will have none; the great Sarkoja has done a noble night’s work. I go, and if you fail to capture him when he comes, I commend your carcasses to the cold bosom of Iss.”  
+ “And when he returns to this chamber,” he was saying, “as he surely will when he finds she does not meet him at the city's edge, you four are to spring upon him and disarm him. It will require the combined strength of all of you to do it if the reports they bring back from Korad are correct. When you have him fast bound bear him to the vaults beneath the jeddak's quarters and chain him securely where he may be found when Tal Hajus wishes him. Allow him to speak with none, nor permit any other to enter this apartment before he comes. There will be no danger of the girl returning, for by this time she is safe in the arms of Tal Hajus, and may all her ancestors have pity upon her, for Tal Hajus will have none; the great Sarkoja has done a noble night's work. I go, and if you fail to capture him when he comes, I commend your carcasses to the cold bosom of Iss.”  
 
   
 ~cCHAPTER XVII
@@ -1246,7 +1246,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  Tal Hajus arose, and I, half fearing, half anticipating his intentions, hurried to the winding runway which led to the floors below. No one was near to intercept me, and I reached the main floor of the chamber unobserved, taking my station in the shadow of the same column that Tars Tarkas had but just deserted. As I reached the floor Tal Hajus was speaking.  
 
- “Princess of Helium, I might wring a mighty ransom from your people would I but return you to them unharmed, but a thousand times rather would I watch that beautiful face writhe in the agony of torture; it shall be long drawn out, that I promise you; ten days of pleasure were all too short to show the love I harbor for your race. The terrors of your death shall haunt the slumbers of the red men through all the ages to come; they will shudder in the shadows of the night as their fathers tell them of the awful vengeance of the green men; of the power and might and hate and cruelty of Tal Hajus. But before the torture you shall be mine for one short hour, and word of that too shall go forth to Tardos Mors, Jeddak of Helium, your grandfather, that he may grovel upon the ground in the agony of his sorrow. Tomorrow the torture will commence; tonight thou art Tal Hajus’; come!”  
+ “Princess of Helium, I might wring a mighty ransom from your people would I but return you to them unharmed, but a thousand times rather would I watch that beautiful face writhe in the agony of torture; it shall be long drawn out, that I promise you; ten days of pleasure were all too short to show the love I harbor for your race. The terrors of your death shall haunt the slumbers of the red men through all the ages to come; they will shudder in the shadows of the night as their fathers tell them of the awful vengeance of the green men; of the power and might and hate and cruelty of Tal Hajus. But before the torture you shall be mine for one short hour, and word of that too shall go forth to Tardos Mors, Jeddak of Helium, your grandfather, that he may grovel upon the ground in the agony of his sorrow. Tomorrow the torture will commence; tonight thou art Tal Hajus'; come!”  
 
  He sprang down from the platform and grasped her roughly by the arm, but scarcely had he touched her than I leaped between them. My short-sword, sharp and gleaming was in my right hand; I could have plunged it into his putrid heart before he realized that I was upon him; but as I raised my arm to strike I thought of Tars Tarkas, and, with all my rage, with all my hatred, I could not rob him of that sweet moment for which he had lived and hoped all these long, weary years, and so, instead, I swung my good right fist full upon the point of his jaw. Without a sound he slipped to the floor as one dead.  
 
@@ -1260,7 +1260,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  “If we make it, my chieftain, the debt of Helium will be a mighty one; greater than she can ever pay you; and should we not make it,” she continued, “the debt is no less, though Helium will never know, for you have saved the last of our line from worse than death.”  
 
- I did not answer, but instead reached to my side and pressed the little fingers of her I loved where they clung to me for support, and then, in unbroken silence, we sped over the yellow, moonlit moss; each of us occupied with his own thoughts. For my part I could not be other than joyful had I tried, with Dejah Thoris’ warm body pressed close to mine, and with all our unpassed danger my heart was singing as gaily as though we were already entering the gates of Helium.  
+ I did not answer, but instead reached to my side and pressed the little fingers of her I loved where they clung to me for support, and then, in unbroken silence, we sped over the yellow, moonlit moss; each of us occupied with his own thoughts. For my part I could not be other than joyful had I tried, with Dejah Thoris' warm body pressed close to mine, and with all our unpassed danger my heart was singing as gaily as though we were already entering the gates of Helium.  
 
  Our earlier plans had been so sadly upset that we now found ourselves without food or drink, and I alone was armed. We therefore urged our beasts to a speed that must tell on them sorely before we could hope to sight the ending of the first stage of our journey.  
 
@@ -1290,7 +1290,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  She sprang quickly from the thoat and, throwing her dear arms about my neck, turned to Sola, saying with quiet dignity: “Fly, Sola! Dejah Thoris remains to die with the man she loves.”  
 
- Those words are engraved upon my heart. Ah, gladly would I give up my life a thousand times could I only hear them once again; but I could not then give even a second to the rapture of her sweet embrace, and pressing my lips to hers for the first time, I picked her up bodily and tossed her to her seat behind Sola again, commanding the latter in peremptory tones to hold her there by force, and then, slapping the thoat upon the flank, I saw them borne away; Dejah Thoris struggling to the last to free herself from Sola’s grasp.  
+ Those words are engraved upon my heart. Ah, gladly would I give up my life a thousand times could I only hear them once again; but I could not then give even a second to the rapture of her sweet embrace, and pressing my lips to hers for the first time, I picked her up bodily and tossed her to her seat behind Sola again, commanding the latter in peremptory tones to hold her there by force, and then, slapping the thoat upon the flank, I saw them borne away; Dejah Thoris struggling to the last to free herself from Sola's grasp.  
 
  Turning, I beheld the green warriors mounting the ridge and looking for their chieftain. In a moment they saw him, and then me; but scarcely had they discovered me than I commenced firing, lying flat upon my belly in the moss. I had an even hundred rounds in the magazine of my rifle, and another hundred in the belt at my back, and I kept up a continuous stream of fire until I saw all of the warriors who had been first to return from behind the ridge either dead or scurrying to cover.  
 
@@ -1314,7 +1314,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  “He will live, O Jed.”  
 
- “’Tis well,” replied the one so addressed, rising and approaching my couch, “he should render rare sport for the great games.”  
+ “'Tis well,” replied the one so addressed, rising and approaching my couch, “he should render rare sport for the great games.”  
 
  And now as my eyes fell upon him, I saw that he was no Thark, for his ornaments and metal were not of that horde. He was a huge fellow, terribly scarred about the face and chest, and with one broken tusk and a missing ear. Strapped on either breast were human skulls and depending from these a number of dried human hands.  
 
@@ -1340,13 +1340,13 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  Bar Comas eyed the defiant and insubordinate chieftain for an instant, his expression one of haughty, fearless contempt and hate, and then without drawing a weapon and without uttering a word he hurled himself at the throat of his defamer.  
 
- I never before had seen two green Martian warriors battle with nature’s weapons and the exhibition of animal ferocity which ensued was as fearful a thing as the most disordered imagination could picture. They tore at each others’ eyes and ears with their hands and with their gleaming tusks repeatedly slashed and gored until both were cut fairly to ribbons from head to foot.  
+ I never before had seen two green Martian warriors battle with nature's weapons and the exhibition of animal ferocity which ensued was as fearful a thing as the most disordered imagination could picture. They tore at each others' eyes and ears with their hands and with their gleaming tusks repeatedly slashed and gored until both were cut fairly to ribbons from head to foot.  
 
- Bar Comas had much the better of the battle as he was stronger, quicker and more intelligent. It soon seemed that the encounter was done saving only the final death thrust when Bar Comas slipped in breaking away from a clinch. It was the one little opening that Dak Kova needed, and hurling himself at the body of his adversary he buried his single mighty tusk in Bar Comas’ groin and with a last powerful effort ripped the young jeddak wide open the full length of his body, the great tusk finally wedging in the bones of Bar Comas’ jaw. Victor and vanquished rolled limp and lifeless upon the moss, a huge mass of torn and bloody flesh.  
+ Bar Comas had much the better of the battle as he was stronger, quicker and more intelligent. It soon seemed that the encounter was done saving only the final death thrust when Bar Comas slipped in breaking away from a clinch. It was the one little opening that Dak Kova needed, and hurling himself at the body of his adversary he buried his single mighty tusk in Bar Comas' groin and with a last powerful effort ripped the young jeddak wide open the full length of his body, the great tusk finally wedging in the bones of Bar Comas' jaw. Victor and vanquished rolled limp and lifeless upon the moss, a huge mass of torn and bloody flesh.  
 
- Bar Comas was stone dead, and only the most herculean efforts on the part of Dak Kova’s females saved him from the fate he deserved. Three days later he walked without assistance to the body of Bar Comas which, by custom, had not been moved from where it fell, and placing his foot upon the neck of his erstwhile ruler he assumed the title of Jeddak of Warhoon.  
+ Bar Comas was stone dead, and only the most herculean efforts on the part of Dak Kova's females saved him from the fate he deserved. Three days later he walked without assistance to the body of Bar Comas which, by custom, had not been moved from where it fell, and placing his foot upon the neck of his erstwhile ruler he assumed the title of Jeddak of Warhoon.  
 
- The dead jeddak’s hands and head were removed to be added to the ornaments of his conqueror, and then his women cremated what remained, amid wild and terrible laughter.  
+ The dead jeddak's hands and head were removed to be added to the ornaments of his conqueror, and then his women cremated what remained, amid wild and terrible laughter.  
 
  The injuries to Dak Kova had delayed the march so greatly that it was decided to give up the expedition, which was a raid upon a small Thark community in retaliation for the destruction of the incubator, until after the great games, and the entire body of warriors, ten thousand in number, turned back toward Warhoon.  
 
@@ -1360,7 +1360,7 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  Laughing and chattering like the idiot I was fast becoming I fell upon his prostrate form my fingers feeling for his dead throat. Presently they came in contact with a small chain at the end of which dangled a number of keys. The touch of my fingers on these keys brought back my reason with the suddenness of thought. No longer was I a jibbering idiot, but a sane, reasoning man with the means of escape within my very hands.  
 
- As I was groping to remove the chain from about my victim’s neck I glanced up into the darkness to see six pairs of gleaming eyes fixed, unwinking, upon me. Slowly they approached and slowly I shrank back from the awful horror of them. Back into my corner I crouched holding my hands palms out, before me, and stealthily on came the awful eyes until they reached the dead body at my feet. Then slowly they retreated but this time with a strange grating sound and finally they disappeared in some black and distant recess of my dungeon.    
+ As I was groping to remove the chain from about my victim's neck I glanced up into the darkness to see six pairs of gleaming eyes fixed, unwinking, upon me. Slowly they approached and slowly I shrank back from the awful horror of them. Back into my corner I crouched holding my hands palms out, before me, and stealthily on came the awful eyes until they reached the dead body at my feet. Then slowly they retreated but this time with a strange grating sound and finally they disappeared in some black and distant recess of my dungeon.    
 
 
 ~cCHAPTER XIX
@@ -1380,19 +1380,19 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  “I am of Helium,” he said, “but I do not recall your name.”  
 
- And then I told him my story as I have written it here, omitting only any reference to my love for Dejah Thoris. He was much excited by the news of Helium’s princess and seemed quite positive that she and Sola could easily have reached a point of safety from where they left me. He said that he knew the place well because the defile through which the Warhoon warriors had passed when they discovered us was the only one ever used by them when marching to the south.  
+ And then I told him my story as I have written it here, omitting only any reference to my love for Dejah Thoris. He was much excited by the news of Helium's princess and seemed quite positive that she and Sola could easily have reached a point of safety from where they left me. He said that he knew the place well because the defile through which the Warhoon warriors had passed when they discovered us was the only one ever used by them when marching to the south.  
 
  “Dejah Thoris and Sola entered the hills not five miles from a great waterway and are now probably quite safe,” he assured me.  
 
- My fellow prisoner was Kantos Kan, a padwar (lieutenant) in the navy of Helium. He had been a member of the ill-fated expedition which had fallen into the hands of the Tharks at the time of Dejah Thoris’ capture, and he briefly related the events which followed the defeat of the battleships.  
+ My fellow prisoner was Kantos Kan, a padwar (lieutenant) in the navy of Helium. He had been a member of the ill-fated expedition which had fallen into the hands of the Tharks at the time of Dejah Thoris' capture, and he briefly related the events which followed the defeat of the battleships.  
 
- Badly injured and only partially manned they had limped slowly toward Helium, but while passing near the city of Zodanga, the capital of Helium’s hereditary enemies among the red men of Barsoom, they had been attacked by a great body of war vessels and all but the craft to which Kantos Kan belonged were either destroyed or captured. His vessel was chased for days by three of the Zodangan war ships but finally escaped during the darkness of a moonless night.  
+ Badly injured and only partially manned they had limped slowly toward Helium, but while passing near the city of Zodanga, the capital of Helium's hereditary enemies among the red men of Barsoom, they had been attacked by a great body of war vessels and all but the craft to which Kantos Kan belonged were either destroyed or captured. His vessel was chased for days by three of the Zodangan war ships but finally escaped during the darkness of a moonless night.  
 
  Thirty days after the capture of Dejah Thoris, or about the time of our coming to Thark, his vessel had reached Helium with about ten survivors of the original crew of seven hundred officers and men. Immediately seven great fleets, each of one hundred mighty war ships, had been dispatched to search for Dejah Thoris, and from these vessels two thousand smaller craft had been kept out continuously in futile search for the missing princess.  
 
  Two green Martian communities had been wiped off the face of Barsoom by the avenging fleets, but no trace of Dejah Thoris had been found. They had been searching among the northern hordes, and only within the past few days had they extended their quest to the south.  
 
- Kantos Kan had been detailed to one of the small one-man fliers and had had the misfortune to be discovered by the Warhoons while exploring their city. The bravery and daring of the man won my greatest respect and admiration. Alone he had landed at the city’s boundary and on foot had penetrated to the buildings surrounding the plaza. For two days and nights he had explored their quarters and their dungeons in search of his beloved princess only to fall into the hands of a party of Warhoons as he was about to leave, after assuring himself that Dejah Thoris was not a captive there.  
+ Kantos Kan had been detailed to one of the small one-man fliers and had had the misfortune to be discovered by the Warhoons while exploring their city. The bravery and daring of the man won my greatest respect and admiration. Alone he had landed at the city's boundary and on foot had penetrated to the buildings surrounding the plaza. For two days and nights he had explored their quarters and their dungeons in search of his beloved princess only to fall into the hands of a party of Warhoons as he was about to leave, after assuring himself that Dejah Thoris was not a captive there.  
 
  During the period of our incarceration Kantos Kan and I became well acquainted, and formed a warm personal friendship. A few days only elapsed, however, before we were dragged forth from our dungeon for the great games. We were conducted early one morning to an enormous amphitheater, which instead of having been built upon the surface of the ground was excavated below the surface. It had partially filled with debris so that how large it had originally been was difficult to say. In its present condition it held the entire twenty thousand Warhoons of the assembled hordes.  
 
@@ -1410,13 +1410,13 @@ She drew upon the marble floor the first map of Barsoomian territory I had ever 
 
  Next a mad zitidar was loosed among the remaining dogs, and so it went throughout the long, hot, horrible day.  
 
- During the day I was pitted against first men and then beasts, but as I was armed with a long-sword and always outclassed my adversary in agility and generally in strength as well, it proved but child’s play to me. Time and time again I won the applause of the bloodthirsty multitude, and toward the end there were cries that I be taken from the arena and be made a member of the hordes of Warhoon.  
+ During the day I was pitted against first men and then beasts, but as I was armed with a long-sword and always outclassed my adversary in agility and generally in strength as well, it proved but child's play to me. Time and time again I won the applause of the bloodthirsty multitude, and toward the end there were cries that I be taken from the arena and be made a member of the hordes of Warhoon.  
 
  Finally there were but three of us left, a great green warrior of some far northern horde, Kantos Kan, and myself.  
 
  The other two were to battle and then I to fight the conqueror for the liberty which was accorded the final winner.  
 
- Kantos Kan had fought several times during the day and like myself had always proven victorious, but occasionally by the smallest of margins, especially when pitted against the green warriors. I had little hope that he could best his giant adversary who had mowed down all before him during the day. The fellow towered nearly sixteen feet in height, while Kantos Kan was some inches under six feet. As they advanced to meet one another I saw for the first time a trick of Martian swordsmanship which centered Kantos Kan’s every hope of victory and life on one cast of the dice, for, as he came to within about twenty feet of the huge fellow he threw his sword arm far behind him over his shoulder and with a mighty sweep hurled his weapon point foremost at the green warrior. It flew true as an arrow and piercing the poor devil’s heart laid him dead upon the arena.  
+ Kantos Kan had fought several times during the day and like myself had always proven victorious, but occasionally by the smallest of margins, especially when pitted against the green warriors. I had little hope that he could best his giant adversary who had mowed down all before him during the day. The fellow towered nearly sixteen feet in height, while Kantos Kan was some inches under six feet. As they advanced to meet one another I saw for the first time a trick of Martian swordsmanship which centered Kantos Kan's every hope of victory and life on one cast of the dice, for, as he came to within about twenty feet of the huge fellow he threw his sword arm far behind him over his shoulder and with a mighty sweep hurled his weapon point foremost at the green warrior. It flew true as an arrow and piercing the poor devil's heart laid him dead upon the arena.  
 
  Kantos Kan and I were now pitted against each other but as we approached to the encounter I whispered to him to prolong the battle until nearly dark in the hope that we might find some means of escape. The horde evidently guessed that we had no hearts to fight each other and so they howled in rage as neither of us placed a fatal thrust. Just as I saw the sudden coming of dark I whispered to Kantos Kan to thrust his sword between my left arm and my body. As he did so I staggered back clasping the sword tightly with my arm and thus fell to the ground with his weapon apparently protruding from my chest. Kantos Kan perceived my coup and stepping quickly to my side he placed his foot upon my neck and withdrawing his sword from my body gave me the final death blow through the neck which is supposed to sever the jugular vein, but in this instance the cold blade slipped harmlessly into the sand of the arena. In the darkness which had now fallen none could tell but that he had really finished me. I whispered to him to go and claim his freedom and then look for me in the hills east of the city, and so he left me.  
 
@@ -1468,7 +1468,7 @@ The old man sat and talked with me for hours.
 
  I did not apprise him of my ability to sense his mental operations, and thus I learned a great deal which proved of immense value to me later and which I would never have known had he suspected my strange power, for the Martians have such perfect control of their mental machinery that they are able to direct their thoughts with absolute precision.  
 
- The building in which I found myself contained the machinery which produces that artificial atmosphere which sustains life on Mars. The secret of the entire process hinges on the use of the ninth ray, one of the beautiful scintillations which I had noted emanating from the great stone in my host’s diadem.  
+ The building in which I found myself contained the machinery which produces that artificial atmosphere which sustains life on Mars. The secret of the entire process hinges on the use of the ninth ray, one of the beautiful scintillations which I had noted emanating from the great stone in my host's diadem.  
 
  This ray is separated from the other rays of the sun by means of finely adjusted instruments placed upon the roof of the huge building, three-quarters of which is used for reservoirs in which the ninth ray is stored. This product is then treated electrically, or rather certain proportions of refined electric vibrations are incorporated with it, and the result is then pumped to the five principal air centers of the planet where, as it is released, contact with the ether of space transforms it into atmosphere.  
 
@@ -1496,7 +1496,7 @@ The old man sat and talked with me for hours.
 
  What was I to do? How could I escape through these mighty walls? Easily could I kill him now that I was warned, but once he was dead I could no more escape, and with the stopping of the machinery of the great plant I should die with all the other inhabitants of the planet—all, even Dejah Thoris were she not already dead. For the others I did not give the snap of my finger, but the thought of Dejah Thoris drove from my mind all desire to kill my mistaken host.  
 
- Cautiously I opened the door of my apartment and, followed by Woola, sought the inner of the great doors. A wild scheme had come to me; I would attempt to force the great locks by the nine thought waves I had read in my host’s mind.  
+ Cautiously I opened the door of my apartment and, followed by Woola, sought the inner of the great doors. A wild scheme had come to me; I would attempt to force the great locks by the nine thought waves I had read in my host's mind.  
 
  Creeping stealthily through corridor after corridor and down winding runways which turned hither and thither I finally reached the great hall in which I had broken my long fast that morning. Nowhere had I seen my host, nor did I know where he kept himself by night.  
 
@@ -1518,7 +1518,7 @@ The old man sat and talked with me for hours.
 
  They lowered their rifles and advanced pleasantly toward me placing their right hands upon my left shoulder, after the manner of their custom of salute, and asking me many questions about myself and my wanderings. They then took me to the house of one of them which was only a short distance away.  
 
- The buildings I had been hammering at in the early morning were occupied only by stock and farm produce, the house proper standing among a grove of enormous trees, and, like all red-Martian homes, had been raised at night some forty or fifty feet from the ground on a large round metal shaft which slid up or down within a sleeve sunk in the ground, and was operated by a tiny radium engine in the entrance hall of the building. Instead of bothering with bolts and bars for their dwellings, the red Martians simply run them up out of harm’s way during the night. They also have private means for lowering or raising them from the ground without if they wish to go away and leave them.  
+ The buildings I had been hammering at in the early morning were occupied only by stock and farm produce, the house proper standing among a grove of enormous trees, and, like all red-Martian homes, had been raised at night some forty or fifty feet from the ground on a large round metal shaft which slid up or down within a sleeve sunk in the ground, and was operated by a tiny radium engine in the entrance hall of the building. Instead of bothering with bolts and bars for their dwellings, the red Martians simply run them up out of harm's way during the night. They also have private means for lowering or raising them from the ground without if they wish to go away and leave them.  
 
  These brothers, with their wives and children, occupied three similar houses on this farm. They did no work themselves, being government officers in charge. The labor was performed by convicts, prisoners of war, delinquent debtors and confirmed bachelors who were too poor to pay the high celibate tax which all red-Martian governments impose.  
 
@@ -1564,11 +1564,11 @@ The old man sat and talked with me for hours.
 
  “She is dead,” he answered. “This much was learned from a green warrior recently captured by our forces in the south. She escaped from the hordes of Thark with a strange creature of another world, only to fall into the hands of the Warhoons. Their thoats were found wandering upon the sea bottom and evidences of a bloody conflict were discovered nearby.”  
 
- While this information was in no way reassuring, neither was it at all conclusive proof of the death of Dejah Thoris, and so I determined to make every effort possible to reach Helium as quickly as I could and carry to Tardos Mors such news of his granddaughter’s possible whereabouts as lay in my power.  
+ While this information was in no way reassuring, neither was it at all conclusive proof of the death of Dejah Thoris, and so I determined to make every effort possible to reach Helium as quickly as I could and carry to Tardos Mors such news of his granddaughter's possible whereabouts as lay in my power.  
 
  Ten days after leaving the three Ptor brothers I arrived at Zodanga. From the moment that I had come in contact with the red inhabitants of Mars I had noticed that Woola drew a great amount of unwelcome attention to me, since the huge brute belonged to a species which is never domesticated by the red men. Were one to stroll down Broadway with a Numidian lion at his heels the effect would be somewhat similar to that which I should have produced had I entered Zodanga with Woola.  
 
- The very thought of parting with the faithful fellow caused me so great regret and genuine sorrow that I put it off until just before we arrived at the city’s gates; but then, finally, it became imperative that we separate. Had nothing further than my own safety or pleasure been at stake no argument could have prevailed upon me to turn away the one creature upon Barsoom that had never failed in a demonstration of affection and loyalty; but as I would willingly have offered my life in the service of her in search of whom I was about to challenge the unknown dangers of this, to me, mysterious city, I could not permit even Woola’s life to threaten the success of my venture, much less his momentary happiness, for I doubted not he soon would forget me. And so I bade the poor beast an affectionate farewell, promising him, however, that if I came through my adventure in safety that in some way I should find the means to search him out.  
+ The very thought of parting with the faithful fellow caused me so great regret and genuine sorrow that I put it off until just before we arrived at the city's gates; but then, finally, it became imperative that we separate. Had nothing further than my own safety or pleasure been at stake no argument could have prevailed upon me to turn away the one creature upon Barsoom that had never failed in a demonstration of affection and loyalty; but as I would willingly have offered my life in the service of her in search of whom I was about to challenge the unknown dangers of this, to me, mysterious city, I could not permit even Woola's life to threaten the success of my venture, much less his momentary happiness, for I doubted not he soon would forget me. And so I bade the poor beast an affectionate farewell, promising him, however, that if I came through my adventure in safety that in some way I should find the means to search him out.  
 
  He seemed to understand me fully, and when I pointed back in the direction of Thark he turned sorrowfully away, nor could I bear to watch him go; but resolutely set my face toward Zodanga and with a touch of heartsickness approached her frowning walls.  
 
@@ -1618,9 +1618,9 @@ The old man sat and talked with me for hours.
 
  They were now almost upon him; their flying mounts charging down on the relatively puny figure at terrific speed, while the warriors leaned low to the right, with their great metal-shod spears. Each seemed striving to be the first to impale the poor Zodangan and in another moment his fate would have been sealed had it not been for my timely arrival.  
 
- Driving my fleet air craft at high speed directly behind the warriors I soon overtook them and without diminishing my speed I rammed the prow of my little flier between the shoulders of the nearest. The impact sufficient to have torn through inches of solid steel, hurled the fellow’s headless body into the air over the head of his thoat, where it fell sprawling upon the moss. The mounts of the other two warriors turned squealing in terror, and bolted in opposite directions.  
+ Driving my fleet air craft at high speed directly behind the warriors I soon overtook them and without diminishing my speed I rammed the prow of my little flier between the shoulders of the nearest. The impact sufficient to have torn through inches of solid steel, hurled the fellow's headless body into the air over the head of his thoat, where it fell sprawling upon the moss. The mounts of the other two warriors turned squealing in terror, and bolted in opposite directions.  
 
- Reducing my speed I circled and came to the ground at the feet of the astonished Zodangan. He was warm in his thanks for my timely aid and promised that my day’s work would bring the reward it merited, for it was none other than a cousin of the jeddak of Zodanga whose life I had saved.  
+ Reducing my speed I circled and came to the ground at the feet of the astonished Zodangan. He was warm in his thanks for my timely aid and promised that my day's work would bring the reward it merited, for it was none other than a cousin of the jeddak of Zodanga whose life I had saved.  
 
  We wasted no time in talk as we knew that the warriors would surely return as soon as they had gained control of their mounts. Hastening to his damaged machine we were bending every effort to finish the needed repairs and had almost completed them when we saw the two green monsters returning at top speed from opposite sides of us. When they had approached within a hundred yards their thoats again became unmanageable and absolutely refused to advance further toward the air craft which had frightened them.  
 
@@ -1682,7 +1682,7 @@ The old man sat and talked with me for hours.
 
  “I am glad that you have so decided,” replied Than Kosis. “It is far from my desire to push war further against the people of Helium, and, your promise shall be recorded and a proclamation to my people issued forthwith.”  
 
- “It were better, Than Kosis,” interrupted Dejah Thoris, “that the proclamation wait the ending of this war. It would look strange indeed to my people and to yours were the Princess of Helium to give herself to her country’s enemy in the midst of hostilities.”  
+ “It were better, Than Kosis,” interrupted Dejah Thoris, “that the proclamation wait the ending of this war. It would look strange indeed to my people and to yours were the Princess of Helium to give herself to her country's enemy in the midst of hostilities.”  
 
  “Cannot the war be ended at once?” spoke Sab Than. “It requires but the word of Than Kosis to bring peace. Say it, my father, say the word that will hasten my happiness, and end this unpopular strife.”  
 
@@ -1690,7 +1690,7 @@ The old man sat and talked with me for hours.
 
  Dejah Thoris, after a few words, turned and left the apartment, still followed by her guards.  
 
- Thus was the edifice of my brief dream of happiness dashed, broken, to the ground of reality. The woman for whom I had offered my life, and from whose lips I had so recently heard a declaration of love for me, had lightly forgotten my very existence and smilingly given herself to the son of her people’s most hated enemy.  
+ Thus was the edifice of my brief dream of happiness dashed, broken, to the ground of reality. The woman for whom I had offered my life, and from whose lips I had so recently heard a declaration of love for me, had lightly forgotten my very existence and smilingly given herself to the son of her people's most hated enemy.  
 
  Although I had heard it with my own ears I could not believe it. I must search out her apartments and force her to repeat the cruel truth to me alone before I would be convinced, and so I deserted my post and hastened through the passage behind the tapestries toward the door by which she had left the chamber. Slipping quietly through this opening I discovered a maze of winding corridors, branching and turning in every direction.  
 
@@ -1726,7 +1726,7 @@ The old man sat and talked with me for hours.
 
  “I am a friend,” I answered, “a once cherished friend.”  
 
- “No friend of Helium’s princess wears that metal,” she replied, “and yet the voice! I have heard it before; it is not—it cannot be—no, for he is dead.”  
+ “No friend of Helium's princess wears that metal,” she replied, “and yet the voice! I have heard it before; it is not—it cannot be—no, for he is dead.”  
 
  “It is, though, my Princess, none other than John Carter,” I said. “Do you not recognize, even through paint and strange metal, the heart of your chieftain?”  
 
@@ -1758,7 +1758,7 @@ The old man sat and talked with me for hours.
 
  Disheartened and dejected, I withdrew from the room, but I was not entirely discouraged, nor would I admit that Dejah Thoris was lost to me until the ceremony had actually been performed.  
 
- As I wandered along the corridors, I was as absolutely lost in the mazes of winding passageways as I had been before I discovered Dejah Thoris’ apartments.  
+ As I wandered along the corridors, I was as absolutely lost in the mazes of winding passageways as I had been before I discovered Dejah Thoris' apartments.  
 
  I knew that my only hope lay in escape from the city of Zodanga, for the matter of the four dead guardsmen would have to be explained, and as I could never reach my original post without a guide, suspicion would surely rest on me so soon as I was discovered wandering aimlessly through the palace.  
 
@@ -1822,7 +1822,7 @@ The old man sat and talked with me for hours.
 
  “What can be done, John Carter?” he continued. “You are a resourceful man. Can you not think of some way to save Helium from this disgrace?”  
 
- “If I can come within sword’s reach of Sab Than,” I answered, “I can solve the difficulty in so far as Helium is concerned, but for personal reasons I would prefer that another struck the blow that frees Dejah Thoris.”  
+ “If I can come within sword's reach of Sab Than,” I answered, “I can solve the difficulty in so far as Helium is concerned, but for personal reasons I would prefer that another struck the blow that frees Dejah Thoris.”  
 
  Kantos Kan eyed me narrowly before he spoke.  
 
@@ -1838,7 +1838,7 @@ The old man sat and talked with me for hours.
 
  He bent his head in thought a moment, then raised it with an air of confidence.  
 
- “I only need to pass these guards and I can do it,” he said at last. “I know a secret entrance to the palace through the pinnacle of the highest tower. I fell upon it by chance one day as I was passing above the palace on patrol duty. In this work it is required that we investigate any unusual occurrence we may witness, and a face peering from the pinnacle of the high tower of the palace was, to me, most unusual. I therefore drew near and discovered that the possessor of the peering face was none other than Sab Than. He was slightly put out at being detected and commanded me to keep the matter to myself, explaining that the passage from the tower led directly to his apartments, and was known only to him. If I can reach the roof of the barracks and get my machine I can be in Sab Than’s quarters in five minutes; but how am I to escape from this building, guarded as you say it is?”  
+ “I only need to pass these guards and I can do it,” he said at last. “I know a secret entrance to the palace through the pinnacle of the highest tower. I fell upon it by chance one day as I was passing above the palace on patrol duty. In this work it is required that we investigate any unusual occurrence we may witness, and a face peering from the pinnacle of the high tower of the palace was, to me, most unusual. I therefore drew near and discovered that the possessor of the peering face was none other than Sab Than. He was slightly put out at being detected and commanded me to keep the matter to myself, explaining that the passage from the tower led directly to his apartments, and was known only to him. If I can reach the roof of the barracks and get my machine I can be in Sab Than's quarters in five minutes; but how am I to escape from this building, guarded as you say it is?”  
 
  “How well are the machine sheds at the barracks guarded?” I asked.  
 
@@ -1874,7 +1874,7 @@ The old man sat and talked with me for hours.
 
  The fellow, acting on impulse of curiosity, stepped to my side and to his undoing, for as he leaned to peer over the eaves I grasped him by his throat and his pistol arm and threw him heavily to the roof. The weapon dropped from his grasp, and my fingers choked off his attempted cry for assistance. I gagged and bound him and then hung him over the edge of the roof as I myself had hung a few moments before. I knew it would be morning before he would be discovered, and I needed all the time that I could gain.  
 
- Donning my trappings and weapons I hastened to the sheds, and soon had out both my machine and Kantos Kan’s. Making his fast behind mine I started my engine, and skimming over the edge of the roof I dove down into the streets of the city far below the plane usually occupied by the air patrol. In less than a minute I was settling safely upon the roof of our apartment beside the astonished Kantos Kan.  
+ Donning my trappings and weapons I hastened to the sheds, and soon had out both my machine and Kantos Kan's. Making his fast behind mine I started my engine, and skimming over the edge of the roof I dove down into the streets of the city far below the plane usually occupied by the air patrol. In less than a minute I was settling safely upon the roof of our apartment beside the astonished Kantos Kan.  
 
  I lost no time in explanation, but plunged immediately into a discussion of our plans for the immediate future. It was decided that I was to try to make Helium while Kantos Kan was to enter the palace and dispatch Sab Than. If successful he was then to follow me. He set my compass for me, a clever little device which will remain steadfastly fixed upon any given point on the surface of Barsoom, and bidding each other farewell we rose together and sped in the direction of the palace which lay in the route which I must take to reach Helium.  
 
@@ -1914,11 +1914,11 @@ The old man sat and talked with me for hours.
 
  Ten thousand men had been engaged in that titanic struggle, and upon the field of battle lay three thousand dead. Neither side asked or gave quarter, nor did they attempt to take prisoners.  
 
- On our return to the city after the battle we had gone directly to Tars Tarkas’ quarters, where I was left alone while the chieftain attended the customary council which immediately follows an engagement.  
+ On our return to the city after the battle we had gone directly to Tars Tarkas' quarters, where I was left alone while the chieftain attended the customary council which immediately follows an engagement.  
 
  As I sat awaiting the return of the green warrior I heard something move in an adjoining apartment, and as I glanced up there rushed suddenly upon me a huge and hideous creature which bore me backward upon the pile of silks and furs upon which I had been reclining. It was Woola—faithful, loving Woola. He had found his way back to Thark and, as Tars Tarkas later told me, had gone immediately to my former quarters where he had taken up his pathetic and seemingly hopeless watch for my return.  
 
- “Tal Hajus knows that you are here, John Carter,” said Tars Tarkas, on his return from the jeddak’s quarters; “Sarkoja saw and recognized you as we were returning. Tal Hajus has ordered me to bring you before him tonight. I have ten thoats, John Carter; you may take your choice from among them, and I will accompany you to the nearest waterway that leads to Helium. Tars Tarkas may be a cruel green warrior, but he can be a friend as well. Come, we must start.”  
+ “Tal Hajus knows that you are here, John Carter,” said Tars Tarkas, on his return from the jeddak's quarters; “Sarkoja saw and recognized you as we were returning. Tal Hajus has ordered me to bring you before him tonight. I have ten thoats, John Carter; you may take your choice from among them, and I will accompany you to the nearest waterway that leads to Helium. Tars Tarkas may be a cruel green warrior, but he can be a friend as well. Come, we must start.”  
 
  “And when you return, Tars Tarkas?” I asked.  
 
@@ -1938,7 +1938,7 @@ The old man sat and talked with me for hours.
 
  The next morning Sarkoja was gone, nor was she ever seen after.  
 
- In silence we hastened to the jeddak’s palace, where we were immediately admitted to his presence; in fact, he could scarcely wait to see me and was standing erect upon his platform glowering at the entrance as I came in.  
+ In silence we hastened to the jeddak's palace, where we were immediately admitted to his presence; in fact, he could scarcely wait to see me and was standing erect upon his platform glowering at the entrance as I came in.  
 
  “Strap him to that pillar,” he shrieked. “We shall see who it is dares strike the mighty Tal Hajus. Heat the irons; with my own hands I shall burn the eyes from his head that he may not pollute my person with his vile gaze.”  
 
@@ -2016,11 +2016,11 @@ The old man sat and talked with me for hours.
 
  At one end of the chamber, upon massive golden thrones encrusted with diamonds, sat Than Kosis and his consort, surrounded by officers and dignitaries of state. Before them stretched a broad aisle lined on either side with soldiery, and as I looked there entered this aisle at the far end of the hall, the head of a procession which advanced to the foot of the throne.  
 
- First there marched four officers of the jeddak’s Guard bearing a huge salver on which reposed, upon a cushion of scarlet silk, a great golden chain with a collar and padlock at each end. Directly behind these officers came four others carrying a similar salver which supported the magnificent ornaments of a prince and princess of the reigning house of Zodanga.  
+ First there marched four officers of the jeddak's Guard bearing a huge salver on which reposed, upon a cushion of scarlet silk, a great golden chain with a collar and padlock at each end. Directly behind these officers came four others carrying a similar salver which supported the magnificent ornaments of a prince and princess of the reigning house of Zodanga.  
 
  At the foot of the throne these two parties separated and halted, facing each other at opposite sides of the aisle. Then came more dignitaries, and the officers of the palace and of the army, and finally two figures entirely muffled in scarlet silk, so that not a feature of either was discernible. These two stopped at the foot of the throne, facing Than Kosis. When the balance of the procession had entered and assumed their stations Than Kosis addressed the couple standing before him. I could not hear his words, but presently two officers advanced and removed the scarlet robe from one of the figures, and I saw that Kantos Kan had failed in his mission, for it was Sab Than, Prince of Zodanga, who stood revealed before me.  
 
- Than Kosis now took a set of the ornaments from one of the salvers and placed one of the collars of gold about his son’s neck, springing the padlock fast. After a few more words addressed to Sab Than he turned to the other figure, from which the officers now removed the enshrouding silks, disclosing to my now comprehending view Dejah Thoris, Princess of Helium.  
+ Than Kosis now took a set of the ornaments from one of the salvers and placed one of the collars of gold about his son's neck, springing the padlock fast. After a few more words addressed to Sab Than he turned to the other figure, from which the officers now removed the enshrouding silks, disclosing to my now comprehending view Dejah Thoris, Princess of Helium.  
 
  The object of the ceremony was clear to me; in another moment Dejah Thoris would be joined forever to the Prince of Zodanga. It was an impressive and beautiful ceremony, I presume, but to me it seemed the most fiendish sight I had ever witnessed, and as the ornaments were adjusted upon her beautiful figure and her collar of gold swung open in the hands of Than Kosis I raised my long-sword above my head, and, with the heavy hilt, I shattered the glass of the great window and sprang into the midst of the astonished assemblage. With a bound I was on the steps of the platform beside Than Kosis, and as he stood riveted with surprise I brought my long-sword down upon the golden chain that would have bound Dejah Thoris to another.  
 
@@ -2034,7 +2034,7 @@ The old man sat and talked with me for hours.
 
  Thrusting Sab Than headlong from the platform, I drew Dejah Thoris to my side. Behind the throne was a narrow doorway and in this Than Kosis now stood facing me, with drawn long-sword. In an instant we were engaged, and I found no mean antagonist.  
 
- As we circled upon the broad platform I saw Sab Than rushing up the steps to aid his father, but, as he raised his hand to strike, Dejah Thoris sprang before him and then my sword found the spot that made Sab Than jeddak of Zodanga. As his father rolled dead upon the floor the new jeddak tore himself free from Dejah Thoris’ grasp, and again we faced each other. He was soon joined by a quartet of officers, and, with my back against a golden throne, I fought once again for Dejah Thoris. I was hard pressed to defend myself and yet not strike down Sab Than and, with him, my last chance to win the woman I loved. My blade was swinging with the rapidity of lightning as I sought to parry the thrusts and cuts of my opponents. Two I had disarmed, and one was down, when several more rushed to the aid of their new ruler, and to avenge the death of the old.     
+ As we circled upon the broad platform I saw Sab Than rushing up the steps to aid his father, but, as he raised his hand to strike, Dejah Thoris sprang before him and then my sword found the spot that made Sab Than jeddak of Zodanga. As his father rolled dead upon the floor the new jeddak tore himself free from Dejah Thoris' grasp, and again we faced each other. He was soon joined by a quartet of officers, and, with my back against a golden throne, I fought once again for Dejah Thoris. I was hard pressed to defend myself and yet not strike down Sab Than and, with him, my last chance to win the woman I loved. My blade was swinging with the rapidity of lightning as I sought to parry the thrusts and cuts of my opponents. Two I had disarmed, and one was down, when several more rushed to the aid of their new ruler, and to avenge the death of the old.     
 
 With my back against a golden throne, I fought once again for Dejah Thoris.  
 
@@ -2050,7 +2050,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  My first thought when the battle was over was for Kantos Kan, and leaving Dejah Thoris in charge of Tars Tarkas I took a dozen warriors and hastened to the dungeons beneath the palace. The jailers had all left to join the fighters in the throne room, so we searched the labyrinthine prison without opposition.  
 
- I called Kantos Kan’s name aloud in each new corridor and compartment, and finally I was rewarded by hearing a faint response. Guided by the sound, we soon found him helpless in a dark recess.  
+ I called Kantos Kan's name aloud in each new corridor and compartment, and finally I was rewarded by hearing a faint response. Guided by the sound, we soon found him helpless in a dark recess.  
 
  He was overjoyed at seeing me, and to know the meaning of the fight, faint echoes of which had reached his prison cell. He told me that the air patrol had captured him before he reached the high tower of the palace, so that he had not even seen Sab Than.  
 
@@ -2058,7 +2058,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  Fortunately among the first I examined I found his jailer, and soon we had Kantos Kan with us in the throne room.  
 
- The sounds of heavy firing, mingled with shouts and cries, came to us from the city’s streets, and Tars Tarkas hastened away to direct the fighting without. Kantos Kan accompanied him to act as guide, the green warriors commencing a thorough search of the palace for other Zodangans and for loot, and Dejah Thoris and I were left alone.  
+ The sounds of heavy firing, mingled with shouts and cries, came to us from the city's streets, and Tars Tarkas hastened away to direct the fighting without. Kantos Kan accompanied him to act as guide, the green warriors commencing a thorough search of the palace for other Zodangans and for loot, and Dejah Thoris and I were left alone.  
 
  She had sunk into one of the golden thrones, and as I turned to her she greeted me with a wan smile.  
 
@@ -2110,7 +2110,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  Not until the commander of the entire fleet took the fearful plunge, thus indicating the surrender of the remaining vessels, did the fighting cease, and the useless sacrifice of brave men come to an end.  
 
- We now signaled the flagship of Helium’s navy to approach, and when she was within hailing distance I called out that we had the Princess Dejah Thoris on board, and that we wished to transfer her to the flagship that she might be taken immediately to the city.  
+ We now signaled the flagship of Helium's navy to approach, and when she was within hailing distance I called out that we had the Princess Dejah Thoris on board, and that we wished to transfer her to the flagship that she might be taken immediately to the city.  
 
  As the full import of my announcement bore in upon them a great cry arose from the decks of the flagship, and a moment later the colors of the Princess of Helium broke from a hundred points upon her upper works. When the other vessels of the squadron caught the meaning of the signals flashed them they took up the wild acclaim and unfurled her colors in the gleaming sunlight.  
 
@@ -2122,7 +2122,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  They were very courteous to me and said many kind and complimentary things, but what seemed to impress them most was that I had won the aid of the fierce Tharks in my campaign for the liberation of Dejah Thoris, and the relief of Helium.  
 
- “You owe your thanks more to another man than to me,” I said, “and here he is; meet one of Barsoom’s greatest soldiers and statesmen, Tars Tarkas, Jeddak of Thark.”  
+ “You owe your thanks more to another man than to me,” I said, “and here he is; meet one of Barsoom's greatest soldiers and statesmen, Tars Tarkas, Jeddak of Thark.”  
 
  With the same polished courtesy that had marked their manner toward me they extended their greetings to the great Thark, nor, to my surprise, was he much behind them in ease of bearing or in courtly speech. Though not a garrulous race, the Tharks are extremely formal, and their ways lend themselves amazingly to dignified and courtly manners.  
 
@@ -2146,7 +2146,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  Again Tars Tarkas ordered the charge, and once more the mighty thoats bore their terrible riders against the ramparts of the enemy. At the same moment the battle line of Helium surged over the opposite breastworks of the Zodangans and in another moment they were being crushed as between two millstones. Nobly they fought, but in vain.  
 
- The plain before the city became a veritable shambles ere the last Zodangan surrendered, but finally the carnage ceased, the prisoners were marched back to Helium, and we entered the greater city’s gates, a huge triumphal procession of conquering heroes.  
+ The plain before the city became a veritable shambles ere the last Zodangan surrendered, but finally the carnage ceased, the prisoners were marched back to Helium, and we entered the greater city's gates, a huge triumphal procession of conquering heroes.  
 
  The broad avenues were lined with women and children, among which were the few men whose duties necessitated that they remain within the city during the battle. We were greeted with an endless round of applause and showered with ornaments of gold, platinum, silver, and precious jewels. The city had gone mad with joy.  
 
@@ -2190,7 +2190,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  For nine years I served in the councils and fought in the armies of Helium as a prince of the house of Tardos Mors. The people seemed never to tire of heaping honors upon me, and no day passed that did not bring some new proof of their love for my princess, the incomparable Dejah Thoris.  
 
- In a golden incubator upon the roof of our palace lay a snow-white egg. For nearly five years ten soldiers of the jeddak’s Guard had constantly stood over it, and not a day passed when I was in the city that Dejah Thoris and I did not stand hand in hand before our little shrine planning for the future, when the delicate shell should break.  
+ In a golden incubator upon the roof of our palace lay a snow-white egg. For nearly five years ten soldiers of the jeddak's Guard had constantly stood over it, and not a day passed when I was in the city that Dejah Thoris and I did not stand hand in hand before our little shrine planning for the future, when the delicate shell should break.  
 
  Vivid in my memory is the picture of the last night as we sat there talking in low tones of the strange romance which had woven our lives together and of this wonder which was coming to augment our happiness and fulfill our hopes.  
 
@@ -2230,7 +2230,7 @@ With my back against a golden throne, I fought once again for Dejah Thoris.
 
  As it was becoming perceptibly difficult to breathe Tardos Mors arose, saying,  
 
- “Let us bid each other farewell. The days of the greatness of Barsoom are over. Tomorrow’s sun will look down upon a dead world which through all eternity must go swinging through the heavens peopled not even by memories. It is the end.”  
+ “Let us bid each other farewell. The days of the greatness of Barsoom are over. Tomorrow's sun will look down upon a dead world which through all eternity must go swinging through the heavens peopled not even by memories. It is the end.”  
 
  He stooped and kissed the women of his family, and laid his strong hand upon the shoulders of the men.  
 
